@@ -1,4 +1,3 @@
-# fundamentals_of_programming respository
 # XYZ Membership Loyalty Programme
 
 Welcome to the XYZ Membership Loyalty Programme! This repository contains a simple loyalty program script that interacts with users through a menu and displays member details.
